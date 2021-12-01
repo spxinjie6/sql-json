@@ -1,0 +1,14 @@
+.idea/*
+__pycache__
+*.pyc
+*.pyo
+*.wpu
+*.wpr
+*/*.py[cod]
+*.DS_Store
+*.out
+*.vscode
+devDockerfile
+etc/dev/config
+Dockerfile
+logs/*

@@ -1,0 +1,15 @@
+jsonschema
+werkzeug
+line_profiler
+flake8==3.7.9
+gunicorn==20.0.4
+oslo.log==4.0.0
+flask==1.1.1
+flask-sqlalchemy==2.4.1
+metric-client==3.2.0
+gevent==21.1.2
+repr==0.3.1
+retrying==1.3.3
+psycopg2-binary==2.8.4
+schedule==0.6.0
+Flask-Docs==0.1.3
